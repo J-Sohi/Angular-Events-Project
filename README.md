@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run 'npm install' to install dependencies.
 
-Run 'npm install ngf-bootstrap --save' to install bootstrap.
+Run 'npm install ngf-bootstrap --save' to install bootstrap dependencies.
 
 ## Development server
 
