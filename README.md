@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
+## Installs
+
+Run 'npm install' to install dependencies.
+
+Run 'npm install ngf-bootstrap --save' to install bootstrap.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
