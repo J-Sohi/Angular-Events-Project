@@ -8,6 +8,8 @@ Run 'npm install' to install dependencies.
 
 Run 'npm install ngf-bootstrap --save' to install bootstrap dependencies.
 
+Run 'npm install toastr --save' to install toastr
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
