@@ -3,8 +3,9 @@ import { EventService } from "./shared/event.service";
 import { ToastrService } from "../common/toast.service";
 
 @Component({
-    selector: 'events-list',
     template: `
+    <h1>Upcoming Angular Events</h1>
+    <hr/>
     <div class="row">
         <div *ngFor="let event of events" class="col-md-5">
             <event-thumbnail (click)="handleThumbnailClick(event.name)" [event]="event"></event-thumbnail>
